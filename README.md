@@ -5,4 +5,8 @@ Git hub practice!
 
 ## subheader
 
-updating file
+Watch tutorial on Youtube.
+
+## Local Developmepnt
+1. Open index.html in your browser.
+
